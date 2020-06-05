@@ -21,6 +21,7 @@ public class Donate extends Fragment {
     DatePickerDialog datePickerDialog;
     TimePickerDialog timePickerDialog;
     Toast toast;
+    String testGit = "This is a string";
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
